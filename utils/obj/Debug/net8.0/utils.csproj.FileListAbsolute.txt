@@ -1,0 +1,28 @@
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\bin\Debug\net8.0\utils.exe
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\bin\Debug\net8.0\utils.deps.json
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\bin\Debug\net8.0\utils.runtimeconfig.json
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\bin\Debug\net8.0\utils.dll
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\bin\Debug\net8.0\utils.pdb
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\utils.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\utils.AssemblyInfo.cs
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\utils.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\utils.dll
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\refint\utils.dll
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\utils.pdb
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\utils.genruntimeconfig.cache
+C:\Users\aless\Desktop\C#  &  .NET\utils\utils\obj\Debug\net8.0\ref\utils.dll
+C:\Users\aless\Desktop\CSharp\utils\utils\bin\Debug\net8.0\utils.exe
+C:\Users\aless\Desktop\CSharp\utils\utils\bin\Debug\net8.0\utils.deps.json
+C:\Users\aless\Desktop\CSharp\utils\utils\bin\Debug\net8.0\utils.runtimeconfig.json
+C:\Users\aless\Desktop\CSharp\utils\utils\bin\Debug\net8.0\utils.dll
+C:\Users\aless\Desktop\CSharp\utils\utils\bin\Debug\net8.0\utils.pdb
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\utils.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\utils.AssemblyInfo.cs
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\utils.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\utils.dll
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\refint\utils.dll
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\utils.pdb
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\utils.genruntimeconfig.cache
+C:\Users\aless\Desktop\CSharp\utils\utils\obj\Debug\net8.0\ref\utils.dll

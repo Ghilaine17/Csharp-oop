@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aless\\Desktop\\CSharp\\utils\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33EBA4BC-CB90-4584-9AAF-FBA19EDC1A31}|utils\\utils.csproj|c:\\users\\aless\\desktop\\csharp\\utils\\utils\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EBA4BC-CB90-4584-9AAF-FBA19EDC1A31}|utils\\utils.csproj|solutionrelative:utils\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EBA4BC-CB90-4584-9AAF-FBA19EDC1A31}|utils\\utils.csproj|c:\\users\\aless\\desktop\\csharp\\utils\\utils\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EBA4BC-CB90-4584-9AAF-FBA19EDC1A31}|utils\\utils.csproj|solutionrelative:utils\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\Desktop\\CSharp\\utils\\utils\\Program.cs",
+              "RelativeDocumentMoniker": "utils\\Program.cs",
+              "ToolTip": "C:\\Users\\aless\\Desktop\\CSharp\\utils\\utils\\Program.cs",
+              "RelativeToolTip": "utils\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:54:20.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\Desktop\\CSharp\\utils\\utils\\Product.cs",
+              "RelativeDocumentMoniker": "utils\\Product.cs",
+              "ToolTip": "C:\\Users\\aless\\Desktop\\CSharp\\utils\\utils\\Product.cs",
+              "RelativeToolTip": "utils\\Product.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:06:19.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
